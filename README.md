@@ -61,7 +61,8 @@ All images, HTML, and styling are embedded within the GitHub Pages site itself.
 Each module is a standalone educational page available in the GitHub Pages site for this repository.
 
 ### **1️⃣ Hyper-V Overview**  
-Explains what Hyper-V is, how the hypervisor layer works, partitions, and why Hyper-V is a true Type-1 hypervisor.
+A structured breakdown of what Hyper-V is, how the hypervisor works, and how enabling it fundamentally transforms Windows into a root partition under a Type-1 virtualization framework.
+
 
 ### **2️⃣ Hyper-V Setups & Hardware Specs**  
 Detailed breakdown of hardware requirements, realistic laptop/desktop specs, and enterprise-grade server hardware used in production Hyper-V deployments.
