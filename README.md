@@ -111,3 +111,17 @@ Two pages covering real sysadmin-level tasks such as:
 
 ## 🗂️ Lab Structure
 
+---
+
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+
+##
+
+📄 **License**  
+This content is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
