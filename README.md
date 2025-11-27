@@ -96,9 +96,10 @@ Two pages covering real sysadmin-level tasks such as:
 
 ---
 
-## 🖥️ Technologies Used
-- **Hyper-V (Microsoft Type-1 hypervisor)**  
+## 🧰 / 🖥️ Tools & Technologies Used
+- **Lenovo ThinkPad E15 Gen 2**
 - **Windows 11 Professional**
+- **Hyper-V (Microsoft Type-1 hypervisor)**  
 - **Hyper-V Manager**
 - **PowerShell**
 - **DISM**
@@ -109,7 +110,15 @@ Two pages covering real sysadmin-level tasks such as:
 
 ---
 
-## 🗂️ Lab Structure
+## 🗂️ Lab Structure / Lab Modules
+- **Hyper-V Overview**
+- **Hyper-V Setups & Hardware SPecs**
+- **Enahbling Hyper-V in Windows 11**
+- **Hyper-V Manager**
+- **Creating VMs & OS Installations**
+- **Setting up a Virtual Switch - vSwitch**
+- **Hyper-V Manager Administrative Tasks I**
+- **Hyper-V Manager Administrative Tasks II**
 
 ---
 
