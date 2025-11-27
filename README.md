@@ -116,7 +116,9 @@ Two pages covering real sysadmin-level tasks such as:
 - Enhanced Session Mode  
 - Resource management  
 - Integration Services  
-- Host and VM-level configuration  
+- Host and VM-level configuration
+
+More will be added to this over the course of time. 
 
 ---
 
