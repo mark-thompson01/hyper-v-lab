@@ -20,7 +20,7 @@ This lab is part of my long-term project to build a fully documented home-lab en
 ---
 
 ## 🔍 Overview
-This repository documents the creation and configuration of a Hyper-V virtualization rig running on Windows 11 Professional. The project walks through:
+This repository documents the creation and configuration of a Hyper-V virtualization rig running on Windows 11 Professional on a Lenovo Thinkpad E16 2nd Gen as the Hyper-V host. The project walks through:
 
 - Understanding how Hyper-V works internally  
 - Enabling, configuring, and managing Hyper-V  
