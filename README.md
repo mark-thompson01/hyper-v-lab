@@ -60,23 +60,23 @@ All images, HTML, and styling are embedded within the GitHub Pages site itself.
 ## 📚 Lab Modules  
 Each module is a standalone educational page available in the GitHub Pages site for this repository.
 
-### **1️⃣ Hyper-V Overview**  
+- 🔹 [Hyper-V Overview](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Hyper-V%20Overview/)
 A structured breakdown of what Hyper-V is, how the hypervisor works, and how enabling it fundamentally transforms Windows into a root partition under a Type-1 virtualization framework.
 
 
-### **2️⃣ Hyper-V Setups & Hardware Specs**  
+- 🔹 [Hyper-V Setups & Hardware Specs](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Hyper-V%20Setup/)
 Detailed breakdown of hardware requirements, realistic laptop/desktop specs, and enterprise-grade server hardware used in production Hyper-V deployments.
 
-### **3️⃣ Enabling Hyper-V in Windows 11**  
+- 🔹 [Enabling Hyper-V in Windows 11](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Hyper-V%20Enable/)
 Three different methods:
 - Using Programs and Features (Control Panel)  
 - Using PowerShell (`Enable-WindowsOptionalFeature`)  
 - Using DISM  
 
-### **4️⃣ Hyper-V Manager**  
+- 🔹 [Hyper-V Manager](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Hyper-V%20Manager/)
 GUI overview, major components, and how the management OS interacts with the hypervisor.
 
-### **5️⃣ Creating VMs & OS Installations**  
+- 🔹 [Creating VMs & OS Installations](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Creating%20VMs/)
 Full VM creation walkthrough for:
 - Windows Server  
 - Ubuntu Server  
@@ -87,14 +87,16 @@ Includes complete image galleries of:
 - OS installation  
 - Initial configuration  
 
-### **6️⃣ Setting up a Virtual Switch — vSwitch**  
+- 🔹 [Setting up a Virtual Switch — vSwitch](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Hyper-V%20Switch/)
 Covers:
 - Internal, external, and private networks  
 - Virtual NIC behavior  
 - How Hyper-V abstracts network resources  
 - Step-by-step vSwitch creation with screenshots  
 
-### **7️⃣ Hyper-V Manager Administrative Tasks I & II**  
+- 🔹 [Hyper-V Manager Administrative Tasks I](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Management%20Tasks/)
+  - 🔹 [Hyper-V Manager Administrative Tasks II](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Hyper-V/Management%20Tasks%20II/)
+
 Two pages covering real sysadmin-level tasks such as:
 - Checkpoints  
 - VM import/export  
